@@ -1,0 +1,90 @@
+{
+  "sites": [{
+      "name": "cloudflare support cdn",
+      "url": "https://support.cloudflare.com/api/v2/uploads.json"
+    },
+    {
+      "name": "pornhub support cdn",
+      "url": "https://support.cloudflare.com/api/v2/uploads.json"
+    },
+    {
+      "name": "discord support cdn",
+      "url": "https://support.discordapp.com/api/v2/upload.json"
+    },
+    {
+      "name": "roblox support cdn",
+      "url": "https://support.cloudflare.com/api/v2/uploads.json"
+    }
+  ],
+  "content-types": {
+    "text": [
+      {"value": "text/css"},
+      {"value": "text/csv"},
+      {"value": "text/html"},
+      {"value": "text/javascript(obsolete)"},
+      {"value": "text/plain"},
+      {"value": "text/xml"}
+    ],
+    "image": [
+      {"value": "image/gif"},
+      {"value": "image/jpeg"},
+      {"value": "image/png"},
+      {"value": "image/tiff"},
+      {"value": "image/vnd.microsoft.icon"},
+      {"value": "image/x-icon"},
+      {"value": "image/vnd.djvu"},
+      {"value": "image/svg+xml"}
+    ],
+    "video": [
+      {"value": "video/mpeg"},
+      {"value": "video/mp4"},
+      {"value": "video/quicktime"},
+      {"value": "video/x-ms-wmv"},
+      {"value": "video/x-msvideo"},
+      {"value": "video/x-flv"},
+      {"value": "video/webm"}
+    ],
+    "audio": [
+      {"value": "audio/mpeg"},
+      {"value": "audio/x-ms-wma"},
+      {"value": "audio/vnd.rn-realaudio"},
+      {"value": "audio/x-wav"}
+    ],
+    "application": [
+      {"value": "application/java-archive"},
+      {"value": "application/EDI-X12"},
+      {"value": "application/EDIFACT"},
+      {"value": "application/javascript"},
+      {"value": "application/octet-stream"},
+      {"value": "application/ogg"},
+      {"value": "application/pdf"},
+      {"value": "application/xhtml+xml"},
+      {"value": "application/x-shockwave-flash"},
+      {"value": "application/json"},
+      {"value": "application/ld+json"},
+      {"value": "application/xml"},
+      {"value": "application/zip"},
+      {"value": "application/x-www-form-urlencoded"}
+    ],
+    "multipart": [
+      {"value": "multipart/mixed"},
+      {"value": "multipart/alternative"},
+      {"value": "multipart/related"},
+      {"value": "multipart/form-data"}
+    ],
+    "vnd": [
+      {"value": "application/vnd.android.package-archive"},
+      {"value": "application/vnd.oasis.opendocument.text"},
+      {"value": "application/vnd.oasis.opendocument.spreadsheet"},
+      {"value": "application/vnd.oasis.opendocument.presentation"},
+      {"value": "application/vnd.oasis.opendocument.graphics"},
+      {"value": "application/vnd.ms-excel"},
+      {"value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},
+      {"value": "application/vnd.ms-powerpoint"},
+      {"value": "application/vnd.openxmlformats-officedocument.presentationml.presentation"},
+      {"value": "application/msword"},
+      {"value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"},
+      {"value": "application/vnd.mozilla.xul+xml"}
+    ]
+  }
+}
