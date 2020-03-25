@@ -1,19 +1,16 @@
 {
-  "sites": [{
+  "sites": [
+    {
+      "name": "fcc consumer complaints cdn",
+      "url": "https://consumercomplaints.fcc.gov/api/v2/uploads.json"
+    },
+    {
       "name": "cloudflare support cdn",
       "url": "https://support.cloudflare.com/api/v2/uploads.json"
     },
     {
-      "name": "pornhub support cdn",
-      "url": "https://support.cloudflare.com/api/v2/uploads.json"
-    },
-    {
-      "name": "discord support cdn",
-      "url": "https://support.discordapp.com/api/v2/upload.json"
-    },
-    {
-      "name": "roblox support cdn",
-      "url": "https://support.cloudflare.com/api/v2/uploads.json"
+      "name": "airbnb support cdn",
+      "url": "https://www.airbnb.co.uk/help/api/v2/uploads.json"
     }
   ],
   "content-types": {
