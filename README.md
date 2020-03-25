@@ -11,6 +11,9 @@ You can see the help for this script by executing this command
 python zenploader.py -h
 ```
 
+# Config
+You can use a default configuration file which is in config.json or configure it to add more sites or content types. You can see the example of configuration file in the config.json file
+
 ## Built with ❤️ by
 
 * [Aldas](https://github.com/AXDZ) - The creator of the script
