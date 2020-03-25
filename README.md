@@ -12,7 +12,7 @@ python zenploader.py -h
 ```
 
 # Config
-You can use a default configuration file which is in config.json or configure it to add more sites or content types. You can see the example of configuration file in the config.json file
+You can use a default configuration file which is in config.json or configure it to add more sites or content types. You can see the example of configuration file in the config.json file.
 
 ## Built with ❤️ by
 
